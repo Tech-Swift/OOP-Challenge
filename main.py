@@ -3,7 +3,7 @@
 from pet import Pet
 
 # Create a pet named Buddy
-my_pet = Pet("Buddy")
+my_pet = Pet("Dee")
 
 # Test the methods
 my_pet.get_status()
